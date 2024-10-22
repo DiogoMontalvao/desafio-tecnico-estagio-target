@@ -12,9 +12,11 @@ fun main() {
 }
 
 private fun runApp() {
-    val numeroDesejado = solicitaNumero() ?: return
+    while (true) {
+        val numeroDesejado = solicitaNumero() ?: return
 
-    printPertenceFibonacci(numeroDesejado)
+        printPertenceFibonacci(numeroDesejado)
+    }
 }
 
 private fun solicitaNumero(): Long? {
