@@ -4,7 +4,7 @@
   <img width="180" src="https://github.com/user-attachments/assets/a292a77f-0981-4095-9d14-498c41b3c04d">
 </p>
 
-**Candidado: Diogo Montalvão**
+**Candidato: Diogo Montalvão**
 
 Parte do processo seletivo do programa de estágio em desenvolvimento da Target Sistemas - Ribeirão Preto.
 
