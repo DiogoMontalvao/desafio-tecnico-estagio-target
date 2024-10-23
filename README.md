@@ -1,4 +1,4 @@
-# DESAFIO TÉCNICO – Estágio em Desenvolvimento- Ribeirão Preto
+# DESAFIO – Estágio em Desenvolvimento - Ribeirão Preto
 <p align="center">
   <img width="140" src="https://github.com/user-attachments/assets/0c3c58d3-44c9-4d22-b24c-fe9e87acf0ce">
   <img width="180" src="https://github.com/user-attachments/assets/a292a77f-0981-4095-9d14-498c41b3c04d">
