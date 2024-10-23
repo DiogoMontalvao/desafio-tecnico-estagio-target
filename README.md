@@ -1,8 +1,18 @@
 # DESAFIO TÉCNICO – Estágio - Ribeirão Preto
+## Objetivo
+<p align="center">
+  <img width="140" src="https://github.com/user-attachments/assets/0c3c58d3-44c9-4d22-b24c-fe9e87acf0ce">
+  <img width="180" src="https://github.com/user-attachments/assets/a292a77f-0981-4095-9d14-498c41b3c04d">
+</p>
+
+**Candidado: Diogo Montalvão**
+
+Parte do processo seletivo do programa de estágio em desenvolvimento da Target Sistemas - Ribeirão Preto.
+
+Linguagem utilizada: Kotlin
 
 ## Desafios
-Linguagem utilizada: Kotlin
-##
+
 1) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
 Solução: https://github.com/DiogoMontalvao/desafio-tecnico-estagio-target/blob/efc8005f6aabd1eff7e8996318b835ba530db301/src/main/kotlin/sequencia-fibonacci.kt
