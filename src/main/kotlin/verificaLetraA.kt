@@ -1,12 +1,8 @@
 import java.text.Normalizer
 
-fun main() {
-    runApp()
-}
-
-private fun runApp() {
+fun runVerificaLetraA() {
     while (true) {
-        print("\nDigite a string para a verificação: ")
+        println("\nDigite a string para a verificação: ")
         val inputString = readln().removeAcentos()
 
         printVerificaLetraA(inputString)

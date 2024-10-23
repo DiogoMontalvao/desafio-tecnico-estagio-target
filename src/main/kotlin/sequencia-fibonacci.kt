@@ -1,8 +1,4 @@
-fun main() {
-    runApp()
-}
-
-private fun runApp() {
+fun runSequenciaFibonacci() {
     while (true) {
         val numeroDesejado = solicitaNumero() ?: return
 
