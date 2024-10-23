@@ -12,10 +12,10 @@ Linguagem utilizada: Kotlin
 
 ## Desafios
 
-1) Solução: https://github.com/DiogoMontalvao/desafio-tecnico-estagio-target/blob/e2ed29aeeab7be5ca85cf55a9b5b94ee42a54041/src/main/kotlin/sequencia-fibonacci.kt
+1) Solução: https://github.com/DiogoMontalvao/desafio-tecnico-estagio-target/blob/cfb18e95b10fa62f8012b83cf163c10cc0a19486/src/main/kotlin/sequencia-fibonacci.kt
 
 ##
-2) Solução: https://github.com/DiogoMontalvao/desafio-tecnico-estagio-target/blob/e2ed29aeeab7be5ca85cf55a9b5b94ee42a54041/src/main/kotlin/verificaLetraA.kt
+2) Solução: https://github.com/DiogoMontalvao/desafio-tecnico-estagio-target/blob/cfb18e95b10fa62f8012b83cf163c10cc0a19486/src/main/kotlin/verificaLetraA.kt
 
 ##
 3) Resultado: 77
